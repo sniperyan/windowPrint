@@ -1,0 +1,2 @@
+# windowPrint
+window.print
