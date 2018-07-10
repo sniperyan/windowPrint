@@ -1,2 +1,5 @@
 # windowPrint
-window.print
+
+调用打印服务之前电脑需要连接打印机
+
+web打印，feature:去掉页面title和页脚的url，如果 打印预览样式失效，很可能是css预编译如less层级造成的，复制到新窗口后少了父层级，解决办法是在原来页面中将父层级样式去掉
